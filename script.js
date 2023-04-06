@@ -1,8 +1,10 @@
 // Section 2
 const title = document.getElementById('judul')
 console.log(title)
+
 const subtitle = document.getElementsByClassName('subjudul')
 console.log(subtitle)
+
 const p = document.getElementsByTagName('p')
 console.log(p.length)
 

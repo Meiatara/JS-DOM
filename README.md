@@ -219,7 +219,7 @@ index.html
 
 ```
 ...
-        <label for="hobby">
+    <label for="hobby">
       <p>Hobby:</p>
           <input type="checkbox" name="hobby" id="painting" value="Painting"/>
           <span>Painting</span>
